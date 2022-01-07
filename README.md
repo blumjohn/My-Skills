@@ -75,6 +75,10 @@ p
 
 In html, these boxes can be moved around and organized or arranged. I note one error: I used leadership twice as originally I scripted these as slightly different skills. Afterwards, I'd prefer to just do it once but I already calculated all the different percentages and have opted not to make this change.
 
+The output looks like this with some annotations added in a photo program.
+
+![alt text](https://github.com/blumjohn/My-Skills/blob/main/Blum_Skills_Sankey.png?raw=true)
+
 
 # Alternative: Display as a Chord Diagram
 Another way of visualizing is to display these skills as a chord diagram.
