@@ -107,4 +107,6 @@ circos.trackPlotRegion(track.index = 1, panel.fun = function(x, y) {
 
 ```
 
+![alt text](https://github.com/blumjohn/My-Skills/blob/main/skillschorddiagram.png?raw=true)
+
 While this is a nice looking diagram, it's a bit too cluttered and not as effective as the Sankey diagram. 
